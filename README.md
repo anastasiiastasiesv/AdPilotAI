@@ -1,6 +1,6 @@
-# AdPilot AI — Landing Page
+# AdKov AI — Landing Page
 
-Premium landing page for AdPilot AI — a creative intelligence for marketers, creators, and agencies, available in Telegram.
+Premium landing page for AdKov AI — a creative intelligence for marketers, creators, and agencies, available in Telegram.
 
 ## Stack
 

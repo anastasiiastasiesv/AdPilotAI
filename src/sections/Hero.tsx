@@ -120,7 +120,7 @@ export function Hero({ t, lang }: Props) {
                 <Sparkles size={11} color="#fff" />
               </div>
               <div>
-                <div style={{ color: '#EFEFEF', fontSize: 13, fontWeight: 600, lineHeight: 1.2 }}>AdPilot AI</div>
+                <div style={{ color: '#EFEFEF', fontSize: 13, fontWeight: 600, lineHeight: 1.2 }}>AdKov AI</div>
                 <div style={{ fontSize: 10, color: '#4ADE80' }}>● online</div>
               </div>
             </div>

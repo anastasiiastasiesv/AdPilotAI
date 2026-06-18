@@ -69,7 +69,7 @@ export function Examples({ t, lang }: Props) {
                   <div style={{ width: 23, height: 23, borderRadius: '50%', background: 'linear-gradient(135deg,#7C3AED,#5B21B6)', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                     <Sparkles size={10} color="#fff" />
                   </div>
-                  <span style={{ color: '#EFEFEF', fontSize: 13, fontWeight: 600 }}>AdPilot AI</span>
+                  <span style={{ color: '#EFEFEF', fontSize: 13, fontWeight: 600 }}>AdKov AI</span>
                   <span style={{ marginLeft: 'auto', fontSize: 10, color: '#4ADE80' }}>● online</span>
                 </div>
                 <div style={{ padding: '16px 17px' }}>

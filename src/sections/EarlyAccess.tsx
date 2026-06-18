@@ -33,7 +33,7 @@ export function EarlyAccess({ t }: Props) {
                   <Sparkles size={17} color="#fff" />
                 </div>
                 <div>
-                  <div style={{ color: '#EFEFEF', fontWeight: 600, fontSize: 15, letterSpacing: '-0.01em' }}>AdPilot AI</div>
+                  <div style={{ color: '#EFEFEF', fontWeight: 600, fontSize: 15, letterSpacing: '-0.01em' }}>AdKov AI</div>
                   <div style={{ color: '#4ADE80', fontSize: 12, marginTop: 2 }}>● Early Access</div>
                 </div>
                 <div style={{ marginLeft: 'auto', background: 'rgba(124,58,237,0.14)', border: '1px solid rgba(124,58,237,0.26)', borderRadius: 999, padding: '4px 12px', fontSize: 12, color: '#A78BFA', fontWeight: 500 }}>Free</div>
