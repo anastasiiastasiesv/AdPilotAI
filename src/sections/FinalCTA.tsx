@@ -27,7 +27,7 @@ export function FinalCTA({ t }: Props) {
           </span>
         </h2>
         <p style={{ color: C.textSecondary, fontSize: 'clamp(15px,1.6vw,19px)', maxWidth: 360, margin: '0 auto 44px', lineHeight: 1.65, whiteSpace: 'pre-line' }}>{t.ctaSub}</p>
-        <a href="https://t.me/adpilot_ai_bot" className="btn btn-primary" style={{ fontSize: 16, padding: '16px 34px', borderRadius: 11 }}>
+        <a href="https://t.me/adpilot_aibot " className="btn btn-primary" style={{ fontSize: 16, padding: '16px 34px', borderRadius: 11 }}>
           <TgIcon /> {t.ctaBtn}
         </a>
         <div style={{ display: 'flex', gap: 24, justifyContent: 'center', flexWrap: 'wrap', marginTop: 22 }}>

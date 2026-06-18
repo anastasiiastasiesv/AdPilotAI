@@ -36,7 +36,7 @@ export function Navbar({ lang, setLang, t }: Props) {
           </div>
           <div className="desktop-only" style={{ display: 'flex', gap: 10, alignItems: 'center', flexShrink: 0 }}>
             <LangSwitcher lang={lang} setLang={setLang} />
-            <a href="https://t.me/adpilot_ai_bot" className="btn btn-primary btn-sm">
+            <a href="https://t.me/adpilot_aibot " className="btn btn-primary btn-sm">
               <TgIcon /> {t.navCta}
             </a>
           </div>
@@ -60,7 +60,7 @@ export function Navbar({ lang, setLang, t }: Props) {
           ))}
           <div style={{ marginTop: 24, display: 'flex', flexDirection: 'column', gap: 12 }}>
             <LangSwitcher lang={lang} setLang={setLang} />
-            <a href="https://t.me/adpilot_ai_bot" className="btn btn-primary btn-lg" style={{ justifyContent: 'center' }}>
+            <a href="https://t.me/adpilot_aibot " className="btn btn-primary btn-lg" style={{ justifyContent: 'center' }}>
               <TgIcon /> {t.heroCta}
             </a>
           </div>

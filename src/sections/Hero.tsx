@@ -84,7 +84,7 @@ export function Hero({ t, lang }: Props) {
 
         {/* CTAs */}
         <div className="hero-ctas" style={{ display: 'flex', gap: 12, justifyContent: 'center', flexWrap: 'wrap', opacity: mounted ? 1 : 0, transform: mounted ? 'none' : 'translateY(12px)', transition: 'opacity 0.6s ease 0.62s, transform 0.6s ease 0.62s' }}>
-          <a href="https://t.me/adpilot_ai_bot" className="btn btn-primary btn-lg"><TgIcon /> {t.heroCta}</a>
+          <a href="https://t.me/adpilot_aibot " className="btn btn-primary btn-lg"><TgIcon /> {t.heroCta}</a>
           <a href="#examples" className="btn btn-ghost btn-lg">{t.heroAlt}</a>
         </div>
 

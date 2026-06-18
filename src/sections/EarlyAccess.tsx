@@ -20,7 +20,7 @@ export function EarlyAccess({ t }: Props) {
             <p style={{ color: C.textSecondary, fontSize: 17, lineHeight: 1.72, marginBottom: 34, maxWidth: 480 }}>
               {t.accBody}
             </p>
-            <a href="https://t.me/adpilot_ai_bot" className="btn btn-primary btn-lg">
+            <a href="https://t.me/adpilot_aibot " className="btn btn-primary btn-lg">
               <TgIcon /> {t.accCta}
             </a>
             <p style={{ color: C.textMuted, fontSize: 13, marginTop: 16, lineHeight: 1.5 }}>{t.accNote}</p>

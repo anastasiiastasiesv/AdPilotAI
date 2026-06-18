@@ -22,7 +22,7 @@ export function FAQ({ t }: Props) {
                 {t.faqH2a}<br />{t.faqH2b}
               </h2>
               <p style={{ color: C.textSecondary, fontSize: 15, lineHeight: 1.72, marginBottom: 26 }}>{t.faqSub}</p>
-              <a href="https://t.me/adpilot_ai_bot" className="btn btn-primary btn-sm" style={{ display: 'inline-flex' }}>
+              <a href="https://t.me/adpilot_aibot " className="btn btn-primary btn-sm" style={{ display: 'inline-flex' }}>
                 <TgIcon /> {t.faqCta}
               </a>
             </div>

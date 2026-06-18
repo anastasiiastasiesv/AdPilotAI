@@ -99,7 +99,7 @@ export function Examples({ t, lang }: Props) {
               ))}
             </div>
             <div style={{ marginTop: 13, textAlign: 'right' }}>
-              <a href="https://t.me/adpilot_ai_bot"
+              <a href="https://t.me/adpilot_aibot "
                 style={{ display: 'inline-flex', alignItems: 'center', gap: 5, color: C.textSecondary, fontSize: 13, transition: 'color 0.2s' }}
                 onMouseEnter={e => (e.currentTarget.style.color = '#A78BFA')}
                 onMouseLeave={e => (e.currentTarget.style.color = C.textSecondary)}

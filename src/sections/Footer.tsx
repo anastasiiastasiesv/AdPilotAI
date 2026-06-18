@@ -26,7 +26,7 @@ function IgIcon() {
 
 export function Footer({ t }: Props) {
   const socials = [
-    { href: 'https://t.me/adpilot_ai_bot', icon: <TgIcon /> },
+    { href: 'https://t.me/adpilot_aibot ', icon: <TgIcon /> },
     { href: '#', icon: <XIcon /> },
     { href: '#', icon: <IgIcon /> },
   ]
