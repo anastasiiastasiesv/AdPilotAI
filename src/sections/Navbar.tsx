@@ -26,7 +26,7 @@ export function Navbar({ lang, setLang, t }: Props) {
               <Sparkles size={12} color="#fff" />
             </div>
             <span style={{ fontWeight: 600, fontSize: 15, letterSpacing: '-0.02em' }}>
-              AdPilot<span style={{ background: 'linear-gradient(90deg,#A78BFA,#60A5FA)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}> AI</span>
+              AdKov<span style={{ background: 'linear-gradient(90deg,#A78BFA,#60A5FA)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}> AI</span>
             </span>
           </a>
           <div className="desktop-only" style={{ display: 'flex', gap: 28, alignItems: 'center' }}>
